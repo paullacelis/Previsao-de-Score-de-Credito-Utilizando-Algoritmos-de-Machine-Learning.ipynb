@@ -1,0 +1,1 @@
+# Previsao-de-Score-de-Credito-Utilizando-Algoritmos-de-Machine-Learning.ipynb
